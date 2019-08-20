@@ -1,7 +1,7 @@
 # Piano_Tiles
 Title : 'PIANO TILES'
 
-Description : This is a Game which emits sound by tapping on the tiles and increases score for every tap once you miss the file you gonna lose the game.
+Description : This is a Game which emits sound by tapping on the tiles and increases score for every tap, once you miss the file you gonna lose the game.
 
 Tools for Execution: Python_Shell or Command_Prompt have to be installed and PyGame to view Graphically.
 
